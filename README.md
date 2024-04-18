@@ -32,6 +32,6 @@
 
 <h3>3.3. WeatherApp</h3>
 <p>
-    <strong>Description:</strong> The WeatherApp class encompasses the backend logic responsible for fetching weather data from an external API. It facilitates the retrieval of geographic coordinates corresponding to a given location, fetches weather data pertinent to that location, and offers functionality to convert weather codes into human-readable descriptions
+    <strong>Description:</strong> The WeatherApp class encompasses the backend logic responsible for fetching weather data from an external API. It facilitates the retrieval of geographic coordinates corresponding to a given location, fetches weather data pertinent to that location, and offers functionality to convert weather codes into human-readable descriptions.
 </p>
 
